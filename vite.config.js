@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [/* keep your existing plugins here */],
-  base: '/GenZ_News/',
+ base: '/GenZ-News/',
 })
